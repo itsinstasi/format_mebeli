@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: https://format-mebeli.itsinsta.site/sitemap.xml
+Sitemap: https://formatmebeli.ru/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
